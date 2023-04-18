@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heading Paragraphs and Emmet</title>
+</head>
+<body>
+    <h1>Raja</h1>
+    <h2>Raja</h2>
+    <h3>Raja</h3>
+    <h4>Raja</h4>
+    <h5>Raja</h5>
+    <h6>Raja</h6>
+
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. At quas exercitationem doloribus, repudiandae quasi deserunt vitae totam reprehenderit, cum eveniet ipsam aliquam, eum excepturi facere amet culpa fugit? Vitae, numquam.</p>
+    <p>first</p>
+    <p>second</p>
+    <p>third</p>
+    <p>fourth</p>
+    
+</body>
+</html>
